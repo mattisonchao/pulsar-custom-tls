@@ -1,5 +1,7 @@
 # pulsar-custom-tls
 
+This project introduces how to config proxy and broker to support TLS authentication with custom authentication provider.
+
 
 ## Build project
 
